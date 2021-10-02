@@ -1,0 +1,21 @@
+The Facebook-owned Whatsapp in its compliance report stated that about two million Indian accounts were banned and 420 grievance reports were received in the month of August. According to the latest reports, over 20,70,000 Indian accounts identified via a +91 phone number were banned due to the unauthorized use of automated or bulk messaging (spam).
+
+WhatsApp account ban
+
+To prevent abuse on its platform, Whatsapp bans nearly 8 million accounts per month on a global average number. During the month of August, Whatsapp received 420 user reports spanning across of which 105 account support, 222 ban appeals, 34 other support, 42 product support, and 17 safety were reported. Further, 42 accounts were actioned.
+
+Explaining 'Accounts Actioned', WhatsApp said that 'actioned' refers to reports where remedial action is taken based on the report. This can result in either banning an account or restoring a previously banned account. Sometimes, many reports are not considered as 'Actioned' and are just reviewed for many of the reasons including the user needing assistance to access their account or to use some features, user-requested restoration of a banned account and the request is denied, or if the reported account does not violate the laws of India or WhatsApp's Terms of Service.
+
+Between the period from June 16 to July 31, Whatsapp had banned about three million Indian accounts and 594 grievance reports were received.
+
+IT rules of India
+
+According to the new IT rules that came into effect on May 26, a compliance report must be submitted every month by large digital platforms that has over 5 million users, detailing the complaints received and action taken. Earlier, WhatsApp had stressed the fact that with end-to-end encryption provided to users, it has no visibility into the content of any messages.
+
+It had mentioned that it relies on behavioural signals from the accounts along with unencrypted information available including the user profile photos, description, reports, and group photos. And to further detect and prevent abuse on the platform, advanced AI tools and resources are used.
+
+In another update, WhatsApp announced that it will not be functional on old devices from both AOS and iOS ecosystems from November 1, 2021. While smartphones running on Android OS 4.1 and newer iOS 10 and newer access WhatsApp and other services related to the app.
+
+(With PTI input)
+
+(Image: PIXABAY)

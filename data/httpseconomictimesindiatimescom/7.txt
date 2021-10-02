@@ -1,0 +1,67 @@
+Since the feature's rolled out two months ago, Google has responded to the most frequently asked questions regarding Search Console Insights. Search Console Insights combines data from Google Search Console and Google Analytics to give you a more complete picture of what's going on with your site.
+
+
+
+Here are some FAQs to assist you get the most out of this new dataset and troubleshoot some of the difficulties that others have encountered.
+
+Why Can’t I see my GA data in Search Console Insights?
+
+There are a couple of reasons why GA data isn't showing up in GSC Insights:
+
+Your GSC property is not associated with a GA property.
+
+You do not have sufficient permissions on GA.
+
+You have the wrong GA view selected in GSC.
+
+Why is the data I see in GA different from GSC Insights?
+
+Because one reflects what happens in Google Search and the other describes what happens on your website, the data in GA and GSC are fundamentally different. In addition, there are a few factors to keep in mind concerning the data discrepancies.
+
+Page title and URLs: other reports in GSC are based on URLs, while GSC Insights uses GA’s page title dimension.
+
+other reports in GSC are based on URLs, while GSC Insights uses GA’s page title dimension. Date ranges: GSC Insights only shows GA data for the last 28 days (last day might use partial data), sometimes compared to the previous 28 days.
+
+GSC Insights only shows GA data for the last 28 days (last day might use partial data), sometimes compared to the previous 28 days. Metrics: GSC Insights combines GA metrics (pageviews, average time on page), with Search metrics (clicks, average position). Those metrics represent different aspects of your site, and they are calculated differently.
+
+How does Search Console Insights choose “new content”?
+
+The New content card displays your site's pages that have received their first pageviews in the previous 28 days. To display, content must have at least a few views and be ordered by recency.
+
+Google utilises three primary types of information to populate this card:
+
+Google looks for pages that received traffic in the last 28 days but didn’t receive any traffic in the year before.
+
+Google filters pages less likely to be new content; such as title changes, comment pages, internal search result pages, and others.
+
+Google filters out translations of the same content and keeps the top-performing title.
+
+How does GSC Insights choose the “most popular content”?
+
+The most popular content card displays the top-performing page titles in terms of pageviews over the last 28 days. GSC Insights may provide the top search queries for the leading canonical URL for each title. The report will not be able to bring in search data if the URL is not under the corresponding GSC property.
+
+How does GSC Insights choose the referring links from other websites?
+
+The referring links from other websites card illustrates how people find your site's content via links from other websites. The purpose of this report, according to Google, is to indicate how many visitors a site received as a result of a certain referring page.
+
+Only one pageview is counted in GSC Insights for each incoming session from a single referral. As a result, the referral traffic you see in this card is merely a fraction of what you're used to seeing in GA.
+
+How can clicks be lower than pageviews in the Google Search card?
+
+There are three primary reasons why clicks are fewer than pageviews:
+
+Each click can trigger more than a single pageview.
+
+GA pageviews for google / organic include more surfaces than web search results, such as Discover, Image Search and Video Search.
+
+GA and GSC don’t necessarily report on the same group of pages. A GSC account may only include HTTP pages while the GA view reports on both HTTP and HTTPS, for example.
+
+What do the different badges in the GSC Insights cards mean?
+
+GSC Insights currently has three distinct badges:
+
+High avg. duration: the content has a high average duration compared to your site’s other pieces of content.
+
+Top 5 results: the average organic search position of the content in the last 28 days is within the top five spots.
+
+Trending x%: represents a comparison between the last 28 days and the previous performance.

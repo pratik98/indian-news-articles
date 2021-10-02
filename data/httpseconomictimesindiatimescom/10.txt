@@ -1,0 +1,29 @@
+When many writers have the same or similar names, Google suggests including an author's URL in article structure to aid in identifying the proper author. An official Google changelog confirms this:
+
+“August 6: Added a new recommended author.url property to the Article structured data documentation. The url property helps Google disambiguate the correct author of the article.”
+
+To be clear, the author URL attribute isn't a brand-new feature. What's new is the suggestion that it be used to assist Google in determining the right author of an article. Because the author URL attribute is contained within the Article schema, it's only one more field to add if you're already utilising that markup on your site.
+
+When disambiguating authors, Google states that the sameAs property can be used instead of the author URL since it understands both sameAs and URL. There was no such option for aiding Google with author disambiguation prior to this update.
+
+Google's John Mueller has mentioned a reconciliation procedure in which the search engine scans for URLs in author bio pages to distinguish between writers with identical names. This new approach of utilising author URL schema markup appears to be more efficient.
+
+Which URL Should I Use in Author Markup?
+
+Google doesn't say what sort of URL the markup should lead to, such as a social media link or the author's home website. However, if the markup leads to an author bio page on the same domain as the article, it may be ideal for Google.
+
+Because when manually reviewing webpages, Google's Quality Raters are directed to seek information about writers.
+
+Content might be rated as “low” or “lowest” quality if there is an “unsatisfactory” or “inadequate” quantity of information regarding who created it. The following is taken from Google's Quality Rater Guidelines section 6.6 (MC = main content):
+
+“We expect some form of website information for many or most websites. We expect clear information about who (e.g., what individual, company, business, foundation, etc.) created the MC, unless there is a good reason for anonymity. A long-standing Internet alias or username can also serve the same function as identifying the MC creator.”
+
+Although it would be a highly effective approach to communicate who an author is to Google's quality raters, the rules do not expressly specify "you need an author bio page."
+
+The more information you can give Google about an author, the more evidence you're giving them that your material is of high quality. Furthermore, an author bio page aids in the identification of authors.
+
+Returning to the earlier reconciliation approach, Mueller shows how social media links in bio pages might help Google distinguish different writers with the same name:
+
+“So my recommendation here would be to at least link to a common, or kind of like a central place, where you say everything comes together for this author. Which could be something like a social network profile page, for example, and use that across the different author pages that you have when you’re writing, so that when our systems look at an article and they see an author page associated with that, they can recognize this is the same author as the person who wrote something else. And we can kind of group this by entity, and we do that based on maybe this common social networking profile that is there.”
+
+With that in mind, it appears that sending author URL markup to a bio page that links to their social network profile is the ideal approach. This will provide Google numerous signals that will aid in finding the proper author. When it comes to authors, linking to the same social media profile on every website where you publish might help Google distinguish you from another author with the same name.

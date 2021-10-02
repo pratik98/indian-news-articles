@@ -1,0 +1,1 @@
+The operational centres have a capacity to handle up to 1,000 enrolments and update requests per day for Model-A ASKs, upto 500 enrolments and update requests per day for Model B ASKs and up to 250 enrolments and update requests per day for Model C ASKs.

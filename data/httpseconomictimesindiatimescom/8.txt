@@ -1,0 +1,31 @@
+The number of affiliate links on one page is irrelevant, according to Google's John Mueller, as long as the main content is beneficial to searchers. You can have as many affiliate links as you like on a page without fear of being penalised or demoted. This was stated during the August 6, 2021 Google Search Central SEO hangout. Mueller is asked the following question:
+
+
+
+
+
+“How many affiliate links are safe or good to have on a single page? Is there a perfect ratio of links to article length to maintain here?”
+
+It's probably no surprise that this question arises just weeks after Google released its link spam algorithm update, which might punish websites that use untagged affiliate links. However, when affiliate links are implemented effectively, there is no limit on how many a page can have in terms of SEO.
+
+This is exactly what Mueller has to say about it.
+
+Google’s John Mueller on Affiliate links
+
+Google isn't aiming to transmit the idea that affiliate links are bad, according to Mueller. They're fine as long as they're embedded in meaningful information, according to Mueller. Google needs a reason to show a site in search results, and that reason is usually because it contains valuable content that people are seeking for.
+
+Attempting to further optimise affiliate links beyond marking them with rel=”sponsored” is “wasted effort.”
+
+“But, essentially, what we need to find is a reason to show your site in search of users who are looking for something. And that reason is usually not the affiliate link but the actual content that you provide on those pages.
+
+So from that point of view, trying to optimize the affiliate links or trying to hide the affiliate links, or whatever you’re trying to do there, I think is almost wasted effort because that’s not what we care about.”
+
+If a page's content isn't important to Google, it won't rank, whether it has dozens of affiliate links or none at all. Content that is a carbon copy of what is on a retailer's website, according to Mueller, is an example of something that will struggle to acquire traction in search results.
+
+“What we care about is the content and kind of why we would show your pages in the first place. And if the content of your page is essentially a copy of a description from a retailer’s site then there’s no reason for us to show your site even if you had no affiliate links.
+
+So you really need to first have that reason to be visible in the search results. And then how you monetize your site, or what links you place there, that’s essentially irrelevant.”
+
+Review the guidelines Google offered when it rolled out the product reviews algorithm update for more information on the type of content Google might find useful in this case.
+
+In the video below, you can hear Mueller's full response:

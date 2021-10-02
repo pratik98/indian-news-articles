@@ -1,0 +1,43 @@
+In an interview with ETCFO, Archit Gupta, CEO of Clear, discusses how CFOs are facing huge financial losses due to GST compliance mismanagement.
+
+
+
+“We have studied this deeply and noticed that enterprises, on average, find their profits falling 7-8% due to missing Input Tax Credit (ITC) claims. If not big, this causes a sizable cut in a corporation's kitty,” he said.
+
+
+
+An earlier survey by Clear also stated that the lack of an automated system to manage ITC, manual and offline intervention and coordination across teams made the process prone to errors. Almost 83% of organisations surveyed are trying to block vendor payments manually to save on taxes but that is far from efficient. Edited Excerpts.
+
+Absolutely. The inaccurate claiming of ITC due to insufficient or ineffective reconciliation has had devastating effects on the profitability. We have studied this deeply and noticed that enterprises, on average, find their profits fall by 7-8% due to missing ITC claims. If not big, this causes a sizable cut in a corporation's kitty. ~
+
+CGST Rules 36(4) provides a partial relief by allowing provisional ITC to the extent of 5% of ITC appearing in GSTR-2A/GSTR-2B.
+
+
+
+It necessitates not only reconciliation of GSTR-2A/GSTR-2B with purchase register but also GSTR-3B of past months to ensure no duplication of ITC claims.
+
+
+
+Thereafter, it requires the taxpayers to communicate and follow up with their non-compliant or partially compliant vendors to upload missing invoices.
+
+
+
+Such missing invoices must be tracked till they are uploaded.
+
+
+
+If such ITC is not uploaded, then it leads to blockage of the working capital of the taxpayer for such duration till the invoice gets uploaded and the taxpayer is able to claim 100% of the ITC.
+
+
+
+A lot of time goes into the reconciliation process and frequent follow up with vendors for invoice reporting.
+
+
+
+Manual matching is subject to errors as well and a lower accuracy level.
+
+
+
+The GST Council has in its 45th meeting indicated a drastic step of removing the provisional ITC claims. Rule 36(4) under the CGST Rules currently allows 5% provisional ITC claims. Sooner, it will be totally disallowed, with the ITC allowed only against invoices or debit notes appearing in GSTR-2B. It will be implemented once Section 16(2)(aa) condition on the same point gets notified. ~
+
+Compliance is no longer about filing returns on time. Now, it has a wide-reaching impact on a business in terms of tax management and reducing regulatory risks. The other major factor lies in supporting vendor compliance. When vendors file on time, businesses get to claim ITC on time. Timely ITC claims influence a business’ working capital. Hence, compliant vendors could be offered better payment and credit terms. As you see, it has now created a domino effect of sorts across the wider business ecosystem.From a CFO perspective, it is about taking on a futuristic approach for business compliance as a whole. And this begins with tax automation. When the first step of record-keeping and return filing is automated, every other step after that falls into place. For a CFO, it is about understanding pieces that they could automate, and how they could leverage tax automation to achieve other business objectives.The GST laws provide insufficient protection to buyers who have to deal with non-compliant vendors. While there are provisions that make sure that vendors file GSTR-1 without much delay (Rule 59(6)), there is no window that points out missing invoices to nudge the vendors for timely uploads. Hence, the recipients must take the onus of ensuring that their purchase invoices reflect in GSTR-2A/2B so they can claim ITC on a timely basis. There must be a tech-powered platform that reconciles and provides corporates with the list of non-compliant vendors, missing invoices and establishes an automatic vendor communication channel for easy regular follow-ups.Further, having terms and indemnity clauses as a part of a business contract will make sure that vendors are compliant.ITC claims are linked to suppliers uploading invoices on GSTR-1 returns and the same reflecting in corresponding GSTR-2A and GSTR-2B. Such dependency leads to deferment of ITC claims.Almost every business function is now digitised. From procurement, human resource functions, transport and logistics, inventory, import and export trade facilitation, banking, and more. Technology has also helped people and organisations both in devising new strategies, communicating and collaborating.Everybody is in a race to find the next new thing, and if you’re in the Fintech space then it’s about inventing the next new thing that will propel the digital economy further.For a CFO, it is about understanding pieces that they could automate, and how they could leverage tax automation to achieve other business objectives. CFOs must make use of AI-based and cloud-based technologies for establishing a robust reconciliation and vendor communication system for the enterprise.Technology is the future. While it can get outdated, it can never get redundant because it is constantly evolving. There will always be something new and relevant. The shift to a digital economy has brought about a plethora of positives. In the financial services sector, it has made everything faster, more transparent and created interoperability between systems like never experienced before. India, in fact, is just catching up to the digital economy revolution.Almost every business function is now digitised. From procurement, human resource functions, transport and logistics, inventory, import and export trade facilitation, banking, and more. Technology has also helped people and organisations both in devising new strategies, communicating and collaborating.Any change management needs is a huge commitment, testing before the actual implementation and rigorous training of teams involved. Using cloud-based technologies will involve a lesser burden on teams in moving the data to the cloud. Back and retrieval is easier and cost-effective. The frequent changes in the law are easy to adapt to where the corporate uses cloud-based technology.The matching tool and the communication window on the GST portal involve the taxpayers collating data for reconciliation. Lack of effective tools is a big disadvantage for corporate taxpayers handling huge data. The GST Council must tighten measures in terms of fixing the time limit on suppliers and vendors to report the invoices and debit notes apart from the filing of GSTR-1 on time.

@@ -1,0 +1,79 @@
+The URL for Google's structured data tool now redirects to a landing page, according to Google. The landing page invites readers to visit Google's Rich Results page, while also directing them to the new Schema.org Structured Data Validator through an almost invisible button.
+
+Google Announces Schema.org Structured Data Validator is ‘Stabilized’
+
+While the fact that the redirect is concealed at the bottom of a December 2020 blog post is strange, what's more worse is how Google describes the Schema.org structured data validator in terms that indicate it isn't ready in a statement that says it is.
+
+The announcement makes no mention of the rival Schema.org structured data validator being out of beta (which would be normal). The Schema.org structured data validator has stabilised, according to Google's statement. A hospital patient who has stabilised is one whose condition has stopped worsening.
+
+Below is the announcement: “Update on August 9, 2021: “The Schema Markup Validator has stabilized, and Google now redirects the Structured Data Testing Tool to a landing page to help you select the right tool.”
+
+Is Google’s Landing Page Promotional?
+
+Because it aggressively encourages users to utilise Google's Rich Results page first, the new landing page has a commercial aspect to it:
+
+“Google recommends that you start with the Rich Results Test…”
+
+When it comes to the Schema.org validator, Google employs less favourable terms like "generic" and characterises the rival in terms of what it lacks:
+
+“For generic schema validation… without Google-specific validation.”
+
+Given that this is the URL that users of the defunct validator would have bookmarked, it almost appears like Google is promoting its own tool above the rival Schema.org tool, which is most likely to please users of the defunct Google structured data validator.
+
+Google Structured Data Testing Tool
+
+The Structured Data Testing Tool verified the validity of the structured data. Negative answers were divided into two categories: warnings and mistakes. Because it was beneficial for debugging structured data, the tool was widely liked.
+
+A sandbox feature allowed modifications to be made directly in the tool to investigate potential solutions to problems and provided an interactive approach to learn about structured data programming.
+
+The non-Google Schema.org Structured Data Validator has all of these essential features.
+
+Slow Retirement of Structured Data Testing Tool
+
+In July 2020, Google stated that the structured data testing tool would be phased down in favour of the more Google-centric Rich Results Test. Many publishers were disappointed to learn that Google's structured data validator will be discontinued.
+
+As a result, Google stated in December 2020 that the structured data testing tool would not be phased off and would continue to exist at Schema.org. The statement recognised the SEO and web development community's disappointment:
+
+“Since then, we’ve heard your feedback and we’d like to give an update on what the future looks like for the Structured Data Testing Tool.
+
+To better support open standards and development experience, we’re… migrating it to a new domain serving the schema.org community… The main purpose of the tool will be to check syntax and compliance of markup with schema.org standards.”
+
+The new Schema.org validator is now available at validator.schema.org, however it is still a work-in-progress.
+
+Google Structured Data URL Redirects to Landing Page
+
+The Google structured data validator URL has been redirected to a landing page that promotes the usage of Google's Rich Results Test tool and connects to the new Schema Markup Validator service.
+
+Google aggressively advertises the Rich Results Testing tool, advising people to begin with it. It's a good idea to have a landing page that explains why the Google structured data validator is no longer available and where to look for a substitute.
+
+However, the page appears to go beyond a simple explanation.
+
+Is Google Using Dark Patterns?
+
+Dark Patterns is a technique for displaying information in a way that looks to be a choice but is actually guiding the user to make the decision that the corporation wants, frequently against the user's best interests.
+
+Researchers have discovered that Google and other tech corporations employ dark patterns to persuade people to give up their privacy (Deceived by Design, PDF) by making it tough to opt out of privacy invasion while making it extremely easy to opt in.
+
+A common dark pattern tactic is to make the button users want to click stand out while the button they don't want to click fades into the background.
+
+The rival structured data validator employs a white button that fades into the white web page, whereas Google utilises a bright blue button for the link to their Rich Results tool.
+
+On the new landing page, here's a screenshot of the button Google uses for their Rich Result Tool:
+
+High Visible Button:
+
+
+
+
+
+On a website with a white backdrop, the button for the Schema.org testing tool is coloured white.
+
+Nearly Invisible Button to Competing Validator
+
+It's almost as if Google is intentionally pushing individuals seeking for the validator to go to their own Rich Results tool, while concealing the link to the rival tool by making the button white so it blends in with the backdrop.
+
+The Rich Results tool's 53-word description waxes lyrical about all of its capabilities. The Schema.org tool's 16-word description spends 30% of its words describing what it lacks. You get to choose which option Google encourages visitors to take...
+
+Schema.org Validator is ‘Stabilized’
+
+Despite Google's apparent preference for its own tool, the new Schema.org tool is up and ready to use. The landing page still states that it is in beta, but that notice is likely to be removed shortly.

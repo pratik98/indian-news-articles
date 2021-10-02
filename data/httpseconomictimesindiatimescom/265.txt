@@ -1,0 +1,28 @@
+Google warns websites may have issues if they conceal content behind captchas since its web crawler can't see it. If Googlebot crawls web pages, it doesn't engage. If it is lying on a Captcha page which blocks the primary content, the only thing on the page is to presume. However, there are methods to do it.
+
+There is no need to discontinue utilizing captchas when troublesome. All this is said by John Mueller of Google during office hours of the Central SEO Search recorded on 24 September 2021. When asked if the captchas they had put in place to prevent scraping may affect SEO, the directory owner says to Mueller.
+
+Briefly, yes, it can affect SEO. There is, however, a technique to restrict content captchas that don't interfere with crawling or indexing. Here is the advice of Mueller.
+
+Captchas that block content is Google's, John Mueller
+
+Mueller made it clear that Captches are not filled by Googlebot – despite captures from Google. If you have to fill out the captcha before you access the page, the content will not crawl. Google can index the website, but no content will be utilized for the ranking of the captcha.
+
+“Googlebot doesn’t fill out any captchas. Even if they are Google-based captchas we don’t fill them out. So that’s something where if the captcha needs to be completed in order for the content to be visible, then we would not have access to the content.
+
+If, on the other hand, the content is available there without needing to do anything, and the captcha is just shown on top, then usually that would be fine.”
+
+As Mueller argues, if the main content is easily available, you may employ captchas securely. Mueller advises utilizing the Inspect URL tool in the Search Console to make sure that a captcha does not obstruct Google's view.
+
+That's one solution, but there's one more solution. You may even do so if you wish to ban material entirely with a captcha and at the same time make it Google-friendly. It involves a technology that you would assume contradicts the standards of Google, but Mueller affirms that it does not break any policy.
+
+Serve a different version from the normal users of Googlebot's page. Googlebot may have a version of the website that is devoid of captions, while it must be completed before viewers view any information.
+
+As Mueller argues, if the core material is easily available, you may employ captchas securely. Mueller advises utilizing the Inspect URL tool in the Search Console to make sure that a captcha does not obstruct Google's view.
+
+Then the content is utilized for classification, whereas with Captcha you may achieve whatever your aim is.
+
+“From a policy point of view we’re okay with situations where you serve us the full content, and you require a captcha on the user side. If you need to do that slightly differently for Googlebot or maybe other search engines than you would for the average user from our point of view that’s fine.”
+
+Below is the full video:
+

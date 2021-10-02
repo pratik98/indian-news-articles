@@ -1,0 +1,11 @@
+When it comes to your Google News sitemap file, Google's John Mueller suggests sticking to just one. According to John, this will allow Google to "crawl it faster" and eliminate the need for Google to "consolidate signals."
+
+John did note that using multiple files is okay if they're "for non-overlapping sections," and that it's "less of an issue."
+
+The specific help document does say you can "add up to 1,000 full URLs to include more, break these URLs into multiple sitemaps, and use a sitemap index file to manage them. Use the XML format provided in the sitemap protocol. Do not list more than 50,000 sitemaps in your sitemap file. These limits help ensure that your web server isn't using large files." So yes, you can have multiple files but try not to have the same URL listed in multiple Google News XML sitemap files.
+
+Yes, you can have numerous Google News XML sitemap files, but try not to have the same URL included in each one. The help document does warn to "update your current sitemap with your new article URLs. Do not create a new sitemap with each update."
+
+Only URLs for items published in the recent two days should be included in the news sitemap file. Articles can be removed from the News sitemap after two days, but they remain in the index for the full 30-day duration.
+
+Below is a John’s tweet:

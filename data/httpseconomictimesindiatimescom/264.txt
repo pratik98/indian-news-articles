@@ -1,0 +1,36 @@
+John Mueller of Google emphasizes that URLs are case-sensitive, thus it matters whether or not they are case-sensitive. Variations in cases can distinguish one URL from another, which is similar to how a slashed URL differs from a slash-free URL.
+
+This subject is discussed at Google Search Central YouTube in the newest edition of Ask Googlebot. A question was asked if the rankings of a website may be affected by URL letters. Mueller addresses the question and explains how Google selects the version of a URL in the search results.
+
+Do the Cases of the Letters in a URL Impact SEO?
+
+Google is very important for letters in a URL. There could be two URLs that appear identical and even connect to the same content, but if one contains a capital letter while the other does not, it might be processed as various URLs.
+
+Mueller says, “By definition, URLs are case sensitive, and also things like slashes at the end do matter. So, technically, yes — these things matter. They make URLs different.”
+
+If Google identifies that there are many copies of the same URL, it tries to crawl them all and find out which one is displayed in search results.
+
+Although this is handled automatically, Mueller argues it is not always the perfect approach to detect and index Google content.
+
+“If a website still shows the same content in these cases, search engines will try to figure it out on their own, and usually that works out well. But it’s not always ideal. For example, search engines will try to crawl all variations of the URL that they find. This can make it a bit slower for them to find other useful content on your website.”
+
+When Google detects several different URL variations, it starts a process called canonization.
+
+It chooses which URL to maintain in the SERPs and consolidates in the same URL all the signals from the other versions. A canonical URL is recognised as the URL that is shown in search results.
+
+“Also, when search engines find multiple distinct URLs showing the same content they have to decide which of these URLs to keep. We call this canonicalization. It doesn’t change ranking but our systems might choose a URL that you wouldn’t have chosen.”
+
+Literature cases in URLs can also play a part in robots.txt, argues Mueller.
+
+“Another place where the exact URL plays a role is robots.txt. In the robots.txt file, you can signal which parts of a website shouldn’t be crawled.
+
+The robots.txt file also uses exact URLs, so if you have entries there which refer to one version of a URL they would not apply to other versions of that URL. It’s rare that we see this cause problems though.”
+
+By connecting regularly to that same version, you may tell Google which version of URL you want to show in search results. Google will also convey suggestions using the rel="Canonical" element about which URL version you wish in SERPs to show.
+
+“Using internal linking to link to a consistent version makes your preference clear. Adding a link rel=” canonical” element also helps to confirm that and encourages search engines to focus on that version.
+
+So, in short, the upper or lower case does matter for URLs. It’s a good practice to be consistent in how you use them, but it’s usually not that critical for a website.”
+
+See the complete video:
+
